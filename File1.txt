@@ -1,11 +1,10 @@
 This is file 1
 
-Change 1
+Change-1
 
-Change 2
+Change-2
 
-change 3
-
+change-3
 
 This is the last statement.
 
@@ -18,3 +17,6 @@ Change 5: to fix bug123.
 This change is updated on remote master repo by teammate to check pull.
 
 change 6: to add feature 1.2 on remote master by teammate, with conflict rebase. 
+
+Change 7: to fix bug456 on the local master to verify rebase. 
+
