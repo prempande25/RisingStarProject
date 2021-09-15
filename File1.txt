@@ -7,10 +7,12 @@ Change 2
 change 3
 
 
-This is the last statement
+This is the last statement.
 
-Change: by teammate for new feature in master branch
+Change: by teammate for new feature in master branch.
 
-This is the last statement as v2
+This is the last statement as v2.
 
-Change: to fix bug123 
+Change: to fix bug123.
+
+This change is updated on remote master repo by teammate to check pull.
